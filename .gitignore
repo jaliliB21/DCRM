@@ -1,0 +1,5 @@
+.env
+vir-env/
+.idea/
+dcrm/website/migrations/*_initial.py
+__pycache__
